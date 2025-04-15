@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <Nullable>enable</Nullable>
+        <AssemblyName>Comulator</AssemblyName>
+        <RootNamespace>Comulator</RootNamespace>
+    </PropertyGroup>
+    
+    <!-- Nuget metadata -->
+    <PropertyGroup>
+        <Version>0.1.0</Version>
+        <Authors>Jordy de Koning</Authors>
+        <Description>Cross-platform drop-in replacements for otherwise Windows-only COM objects.</Description>
+        <PackageTags>com;interop;cross-platform;legacy;replacement</PackageTags>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/jordy-de-koning/comulator</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+    </PropertyGroup>
+
+</Project>
